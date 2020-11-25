@@ -73,7 +73,6 @@ li:hover {
 
 .item3{
     background:
-    
     height:500px;
     width:100%;
 }
@@ -175,8 +174,12 @@ li:hover {
 
 .member-button{
     text-align: center;
+    
 }
 
+.member-text{
+   font-size:25px;
+}
 
 /* contact section */
 .contact{
@@ -211,8 +214,6 @@ li:hover {
     width:85%;
     position:relative;
     left:25px;
-    background:beige;
-    
 }
 
 .message-input{
