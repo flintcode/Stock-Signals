@@ -72,20 +72,20 @@ li:hover {
 }
 
 .item3{
-    
+    background:#F8F8F8;
     height:500px;
     width:100%;
 }
 .item4{
-    background:beige;
+    background:#F8F8F8;
     background-repeat: no-repeat;
     height:500px;
     width:100%;
 }
 .item5 {
-    height:500px;
+    height:550px;
     width:100%;
-
+    
     
 }.item6{
     width:100%;
@@ -95,13 +95,13 @@ li:hover {
 }
 
 .item7{
-    background:whitesmoke;
+    background:;
     display:flex;
     justify-content:center;
     align-items:center;
     flex-direction:row;
     width:100%;
-    height:500px;
+    height:400px;
     margin: 0px 15px;
 
 }
@@ -161,6 +161,9 @@ li:hover {
 .about-text{
     text-align:Center;
     font-size:25px;
+    padding:30px 225px 10px 225px;
+    position:relative;
+    bottom:35px;
 }
 
 
@@ -234,6 +237,15 @@ li:hover {
 .message-input{
     height:100px;
 
+}
+
+.submit-form{
+    margin:15px;
+    padding: 10px;
+    font-size:15px;
+    width:20%;
+    position:relative;
+    left:10px;
 }
 
 /* contact right side */
