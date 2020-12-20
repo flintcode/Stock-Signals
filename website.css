@@ -1,5 +1,5 @@
 
-
+@charset "UTF-8";
 /* utilities */
 body html{
     margin:0;
@@ -19,7 +19,8 @@ a{
 }
 li{
     float:left;
-    margin: 5px 10px;
+    margin: 5px 25px;
+    font-size: 25px;
     
 
 }
@@ -43,9 +44,9 @@ li:hover {
 /* navbar */
 
 .item1{
-    background: url("https://cutewallpaper.org/21/dark-gradient-backgrounds/black-wallpaper-hd-4k-background-gradient-dark-shine.jpg");
+    
     opacity:0.8;
-    height:40px;
+    height:75px;
     width:100%;
     padding:10px 0px 15px 0px;
     position: fixed;
@@ -65,9 +66,8 @@ li:hover {
     background-position:center;
     background-attachment: fixed;
     position:relative;
-    width:100%;
+    width:105%;
     height:900px;
-    width:100%;
     color:white;
 }
 
@@ -131,8 +131,8 @@ li:hover {
     text-align:Center;
     top:35%;
     font-size:50px;
-    align-items:center;
     position:relative;
+    right:12%;
 
 }
 
@@ -145,10 +145,12 @@ li:hover {
 .button-design{
     padding: 20px 20px;
     color:white;
-    background-color:darkgrey;
+    background-color:orange;
     border-radius:10%;
     font-size: 20px;
 }
+
+
 
 
 /* about section */
@@ -265,10 +267,7 @@ li:hover {
 
 
 /* footer */
-.footer{
-   
-    
-}
+
 
 .copyright{
     color:white;
